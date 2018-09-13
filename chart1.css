@@ -1,0 +1,12 @@
+::-webkit-scrollbar {display: none;}
+body{width:1600px; background:; height: 900px; overflow: hidden;}
+.bgimg{margin-left:-20px; margin-top:-170px; z-index:-1000; position:absolute;}
+nav ul{margin-left:3%; z-index:1000;}
+nav ul li{float: left; list-style: none; margin-left: 100px; font-size:1.5em;}
+a{text-decoration:none; font; color: black;}
+h1{margin: 50px 0 50px 40%; font-size: 3em}
+div.bubble{position:absolute; z-index:-100}
+.circle{fill:#ff6161;}
+line{stroke:#ff6161; stroke-width:5;}
+canvas{position: absolute;}
+#mycanvas{z-index: 999; }
